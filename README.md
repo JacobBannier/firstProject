@@ -7,6 +7,6 @@ This is my first edit in Notepad++.
 
 "git status" shows the difference between remote and local repository?
 
-#Branching
+#Branching Done
 
 This is on a new branch called "test". 
